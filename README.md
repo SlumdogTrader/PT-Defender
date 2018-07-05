@@ -1,6 +1,6 @@
-# Welcome
+# Welcome to the Profit Trailer addon PT Defender
 
-Welcome to PTDefender
+The add-on is a dilluting system for your DCA's i.e. a bag buster!
 
 1. [Wiki](https://github.com/PTDefender/Welcome/wiki)
 2. [Website](https://www.ptdefender.com)
